@@ -1,0 +1,6 @@
+{
+  "name": "Iye's Bake",
+  "description": "Luxury patisserie personal brand site for The Baker Behind Iye's.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
